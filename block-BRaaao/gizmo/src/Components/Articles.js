@@ -1,5 +1,4 @@
 import {data} from "./../Data/data"
-///////
 function Article(props) {
     const { url, title } = props;
     return (
