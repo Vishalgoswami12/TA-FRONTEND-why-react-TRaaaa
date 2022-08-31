@@ -32,4 +32,28 @@ function Articles(){
     )
 }
 
+
+// function Articles(){
+//     return(
+//         <>
+//         <div>
+//             <h2>Articles</h2>
+//             <div className="grid">
+//             {
+//                 data.map((ele)=>{
+//                     const { urlToImage, title } = ele;
+//                     return(
+//                         <div>
+//                         <img src={urlToImage} alt={title} width="100%" height="300" />
+//                         <h4>{title}</h4>
+//                     </div>
+//                     )
+//                 })
+//             }
+//             </div>
+//         </div>
+//         </>
+//     )
+// }
+
 export default Articles;
