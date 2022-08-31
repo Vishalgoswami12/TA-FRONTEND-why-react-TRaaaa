@@ -1,7 +1,7 @@
 function Footer(){
     return (
         <>
-        <div className="flex">
+        <div className="flex footer">
             <p>2020 All Right Reserved</p>
             <ul className="flex">
                 <li><a href="#">Facebook</a></li>

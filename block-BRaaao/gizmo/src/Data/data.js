@@ -50,7 +50,7 @@ export const data = [
       url:
         'https://www.teiss.co.uk/coronavirus-related-cyber-attacks-jump-30-in-past-two-weeks/',
       urlToImage:
-        'https://s31405.pcdn.co/wp-content/uploads/2020/05/iStock-1177170875.jpg',
+      'https://s3.cointelegraph.com/storage/uploads/view/353dbd86242a1d269f2c88dee06f347b.jpg',
       publishedAt: '2020-05-12T11:04:00Z',
       content:
         'The World Health Organizations name and logo is a popular choice for hackers to impersonate. Recently, cyber criminals sent malicious emails posing as the WHO from the domain who.int with the email subject Urgent letter from WHO: First human COVID-19 vaccine … [+4458 chars]',

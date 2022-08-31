@@ -23,7 +23,9 @@ code {
 }
 
 /* //custom css */
-
+header{
+  background-color: aqua;
+}
 .anchor{
   text-decoration: none;
   color: crimson;
@@ -48,5 +50,9 @@ li{
 }
 li a{
   text-decoration: none;
-  color: crimson;
+  color: black;
+}
+.footer{
+  background-color:brown;
+  padding: 10px;
 }
